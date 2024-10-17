@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/yuwei-cao-git/yuwei-cao-git/master/intro.gif" alt="👋 Hi there! I'm Yuwei Cao" title="👋 Hi there! I'm Yuwei Cao"/>]
+👋 Hi there! I'm Yuwei Cao
 
 <!--
 **yuwei-cao-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
