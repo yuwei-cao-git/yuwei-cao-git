@@ -1,4 +1,4 @@
-👋 Hi there! I'm Yuwei Cao
+# 👋 Hi there! I'm Yuwei Cao
 
 <!--
 **yuwei-cao-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
